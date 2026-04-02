@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/components/auth/authlayout.tsx","./src/components/auth/button.tsx","./src/components/auth/input.tsx","./src/pages/forgot-password/forgotpassword.tsx","./src/pages/sign-in/signin.tsx","./src/pages/sign-up/signup.tsx"],"version":"5.9.3"}
