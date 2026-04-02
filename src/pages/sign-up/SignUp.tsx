@@ -199,7 +199,7 @@ export default function SignUp() {
 
       <div className="mt-4 text-center auth-form-group stagger-7">
         <p className="text-xs text-gray-500">
-          Already have an account ?{' '}
+          Already have an account?{' '}
           <Link to="/sign-in" className="auth-link">
             Sign in
           </Link>
