@@ -29,6 +29,12 @@ const EyeSlashIcon = () => (
   </svg>
 )
 
+const Logo = () => (
+  <div className="w-10 h-10 rounded-full bg-white/10 flex items-center justify-center text-white font-bold">
+    NB
+  </div>
+)
+
 export default function SignIn() {
   const [showPassword, setShowPassword] = useState(false)
   const [isLoading, setIsLoading] = useState(false)
